@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Hammer
   - MetalSheet
+  - HammerHead
+  - Ball
   layers:
   - Default
   - TransparentFX
@@ -19,8 +21,8 @@ TagManager:
   - Hammer
   - Character Controller
   - Head
-  - 
-  - 
+  - Ball
+  - PlayerBoundary
   - 
   - 
   - 
