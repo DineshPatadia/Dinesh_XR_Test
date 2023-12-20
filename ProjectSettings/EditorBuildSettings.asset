@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Dinesh_XR_Test/0_Scenes/02_Basketball.unity
-    guid: 4a4699cad00297b408753d420671872e
+    path: Assets/_Dinesh_XR_Test/0_Scenes/01_MetalCrusher.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 82cd3bd06f171354795f068188e538b4,
       type: 2}

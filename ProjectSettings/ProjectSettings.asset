@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Dinesh
-  productName: XRTest
+  companyName: DineshXRTest
+  productName: Hammer
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -136,7 +136,11 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 82cd3bd06f171354795f068188e538b4, type: 2}
+  - {fileID: 4642075300100337424, guid: 6c2e46d7c2848524689b5c1dd0b2403b, type: 2}
+  - {fileID: 11400000, guid: 00119a41e6a036248bfdfa58bc8ca0b9, type: 2}
+  - {fileID: 3674249902568292864, guid: 11a0cbea93012fb4b823de9d94303657, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -157,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Dinesh.XRTest
+    Android: com.DineshXRTest.Hammer
     Standalone: com.Unity-Technologies.com.unity.template.urp-blank
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
